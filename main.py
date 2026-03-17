@@ -1,6 +1,6 @@
 # 파일이름 :인터랙티브 성적 리포트
 # 작 성 자 :민상우
-=input("이름을 입력하세요:")
+name9=input("이름을 입력하세요:")
 writing9=iname9nt(input("글쓰기 점수 입력"))
 python9=int(input("파이썬 점수 입력"))
 last_avg9=int(input("지난학기 평균을 입력하세요."))
